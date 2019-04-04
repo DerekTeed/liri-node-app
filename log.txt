@@ -1,0 +1,69 @@
+concert-this
+Location of Venue: Pasadena, United States
+Name of Venue: Rose Bowl Stadium
+Date of Venue: 05/04/2019
+Location of Venue: Pasadena, United States
+Name of Venue: Rose Bowl Stadium
+Date of Venue: 05/05/2019
+Location of Venue: Chicago, United States
+Name of Venue: Soldier Field
+Date of Venue: 05/11/2019
+spotify-this-song
+Artist name: Taylor Swift
+Song Name: Delicate
+Preview link: https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02
+Album Name: reputation
+movie-this
+Title: Alita: Battle Angel
+Year Released: 2019
+Rated: PG-13
+Rotten Tomatoes: 60%
+Country: USA
+Language: English, Spanish
+Plot: A deactivated female cyborg is revived, but cannot remember anything of her past life and goes on a quest to find out who she is.
+Actors: Rosa Salazar, Christoph Waltz, Jennifer Connelly, Mahershala Ali
+The movie's rating is: 7.6
+do-what-it-says
+spotify-this-song,"I Want it That Way"
+spotify-this-song
+Artist name: Karmjeet Cheema
+Song Name: Rabb V/S Jatt
+Preview link: https://open.spotify.com/artist/4vjVB3WmsetzSQJm7u8cbg
+Album Name: Rabb V/S Jatt - Single
+concert-this
+Location of Venue: Pasadena, United States
+Name of Venue: Rose Bowl Stadium
+Date of Venue: 05/04/2019
+Location of Venue: Pasadena, United States
+Name of Venue: Rose Bowl Stadium
+Date of Venue: 05/05/2019
+Location of Venue: Chicago, United States
+Name of Venue: Soldier Field
+Date of Venue: 05/11/2019
+not found
+spotify-this-song
+Artist name: Taylor Swift
+Song Name: Delicate
+Preview link: https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02
+Album Name: reputation
+movie-this
+Title: undefined
+Year Released: undefined
+Rated: undefined
+movie-this
+Title: Alita: Battle Angel
+Year Released: 2019
+Rated: PG-13
+Rotten Tomatoes: 60%
+Country: USA
+Language: English, Spanish
+Plot: A deactivated female cyborg is revived, but cannot remember anything of her past life and goes on a quest to find out who she is.
+Actors: Rosa Salazar, Christoph Waltz, Jennifer Connelly, Mahershala Ali
+The movie's rating is: 7.6
+do-what-it-says
+spotify-this-song,"I Want it That Way"
+spotify-this-song
+Artist name: Karmjeet Cheema
+Song Name: Rabb V/S Jatt
+Preview link: https://open.spotify.com/artist/4vjVB3WmsetzSQJm7u8cbg
+Album Name: Rabb V/S Jatt - Single
